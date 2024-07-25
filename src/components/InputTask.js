@@ -6,6 +6,7 @@ const options = [
     { key: "deporte", text:"Deporte", value:"deporte"},
     { key: "casa", text:"Casa", value:"casa"},
     { key: "trabajo", text:"Trabajo", value:"trabajo"},
+    { key: "viajes", text:"viajes", value:"viajes"},
     { key: "otra", text:"Otra", value:"otra"},
 
 ]
