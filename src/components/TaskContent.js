@@ -1,4 +1,4 @@
-import { Header, Icon, Grid, GridRow, GridColumn } from "semantic-ui-react";
+import { Header, Icon, Grid, GridRow } from "semantic-ui-react";
 import Task from "./Task";
 
 export default function TaskContent(props) {
